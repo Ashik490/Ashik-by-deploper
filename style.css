@@ -1,0 +1,78 @@
+h1{
+    font-size:50px;
+    font-family:"Sofia", sans-serif;
+}
+#first{
+color:rgb(255, 34, 0);
+}
+#big{
+    color:green;
+}
+.half-width{
+width:40%;
+
+float:left;
+margin:3%;
+padding:2px;}
+
+ 
+.half-width img{
+width:100%;
+height:50%;  
+}
+
+
+#link-batton{
+background-color:yellow;
+color:red;
+text-decoration:none;
+padding:10px 20px;
+border-radius:10px;
+font-weight:700px;}
+
+.tusi{
+    
+    width:40%;
+    float:left;
+    padding:2%;
+    margin:5px;}
+    .tusi img{
+        width: 100%;
+        height: 50%;
+
+    }
+
+
+
+.link{
+background-color:rgba(247, 0, 255, 0.774);
+color:white;
+border:solid;
+border-radius: 10;
+text-decoration:none;
+font: size 30px;}
+
+.experiance-area{
+            float: left}
+
+.single-experiance    {
+    box-shadow: 10px 10px 40px rgba(44, 5, 240, 0.792);
+    border-radius: 2%;
+    padding: 2%;
+    height: 80%;
+
+
+}
+#second{
+   float: left;
+    text-align: center;
+} 
+
+div{
+    
+    padding: 10px;
+}
+.by{
+    background-color: goldenrod;
+    font-size: 28px;
+}
